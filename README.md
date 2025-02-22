@@ -59,11 +59,7 @@ For any enquiries or support, please contact:
 - Aditya Khairnar
 - Siddhenthi Uday Kumar
 - Kushal Bansal
-- Jatavath Siddhartha Nayak
-- Nomula Suveeksha Reddy
-- Gajulapalli Sai Varshitha
-- Tammina Moulya
-
+- Samar Borkar
 
 
 
